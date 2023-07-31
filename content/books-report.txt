@@ -1,1 +1,3 @@
-ciao
+Il file di input ha 322 caratteri esclusi gli spazi, e 55 parole.
+Il carattere più comune è 'a' e appare 44 volte.
+La parola più comune è 'libri' e appare 3 volte.
