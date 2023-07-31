@@ -1,0 +1,2 @@
+Puoi acquistare tutti i libri adottati dalla classe e presenti nella lista scolastica cliccando su “cerca i libri della tua classe”, ordinarli sarà facilissimo! Basta inserire nel menù a tendina Regione, Provincia, Scuola e Classe.
+Potrai anche usare il codice Ministeriale della scuola (codice meccanografico) che trovi stampato sulla lista dei libri rilasciata dalla scuola.
